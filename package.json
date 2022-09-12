@@ -1,0 +1,26 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new-article": "npx zenn new:article",
+    "new-book": "npx zenn new:book",
+    "preview": "npx zenn preview",
+    "update-cli": "npm install -g zenn-cli@latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mksh-github/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mksh-github/zenn/issues"
+  },
+  "homepage": "https://github.com/mksh-github/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.123"
+  }
+}
