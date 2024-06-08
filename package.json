@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/mksh-github/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.123"
+    "zenn-cli": "^0.1.154"
+  },
+  "volta": {
+    "node": "20.14.0"
   }
 }
