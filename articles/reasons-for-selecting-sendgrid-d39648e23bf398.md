@@ -3,7 +3,7 @@ title: "【備忘録】SendGrid選定理由"
 emoji: "✉️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["技術選定", "sendgrid", "python", "python3"]
-published: true
+published: false
 ---
 
 # 概要
